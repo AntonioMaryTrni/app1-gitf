@@ -21,7 +21,7 @@
 	 },false);//se desconecto
 	 
 	 
-	},false);//ready device
+	 },false);//ready device
 	
 	
 });//document 
